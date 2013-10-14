@@ -1,0 +1,13 @@
+Si4705_Lib	KEYWORD1
+TuneStatus KEYWORD1
+powerOn	KEYWORD2
+setVolume	KEYWORD2
+getVolume KEYWORD2
+setChannel	KEYWORD2
+getChannel	KEYWORD2
+readRDS	KEYWORD2
+seek	KEYWORD2
+bytesCommand KEYWORD2
+readCommand KEYWORD2
+printBuffer KEYWORD2
+printTuneStatus KEYWORD2
